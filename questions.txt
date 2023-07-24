@@ -1,6 +1,6 @@
 Question 1: What is your favorite color? Blue
 
-Question 2: What is your favorite programming language?
+Question 2: What is your favorite programming language? Java
 
 Question 3: What is your favorite food?
 
