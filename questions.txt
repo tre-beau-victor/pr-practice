@@ -1,4 +1,4 @@
-Question 1: What is your favorite color?
+Question 1: What is your favorite color? Blue
 
 Question 2: What is your favorite programming language?
 
